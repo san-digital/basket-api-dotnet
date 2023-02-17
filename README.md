@@ -8,5 +8,7 @@ It keeps track of the basket in memory, so it will be lost when the server is re
 
 ## Todo
 
-Implement the basket api such that it can return the correct BasketState.
+1. Implement the basket api such that it can return the correct BasketState.
+
+2. Add a remove endpoint that allow the user to remove items from the basket.
 
